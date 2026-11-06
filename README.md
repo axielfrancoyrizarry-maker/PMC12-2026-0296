@@ -56,23 +56,16 @@ Unidad 5, tipo 0, p = 20, muestras 80 60 100: máximo 80, 80, 100 → caídas 0,
 40 70 50: mínimo 40 siempre → diferencias 0, 30, 10 → score 30; 30 > 29, estado 1.
 TOTAL 50, ORDER 7 5, FIND 5 20. Coincide con lo obtenido.
 
-### Fallo encontrado y corregido
-(Escribe aquí un fallo REAL que tuviste durante el desarrollo, cómo lo
-detectaste y cómo lo corregiste. Si no tuviste ninguno, borra esta sección y
-conserva solo la traza manual de arriba.)
 
 ## Fuentes consultadas
 - Corona Nakamura, M. A. y Ancona Valdez, M. de los Á. (2011). *Diseño de
   algoritmos y su codificación en lenguaje C*. McGraw-Hill.
 - Enunciado del PMC12 (docente).
-- (Añade aquí cualquier otra fuente o herramienta que realmente usaste.)
 
 ## Historial de commits
 | # | Hash | Avance |
-| --- | --- | --- |
-| 1 | (pega el hash) | Estructura, interpretación y plan |
-| 2 | (pega el hash) | Desarrollo parcial: lectura, validación y calcular |
-| 3 | (pega el hash) | Total recursivo, ordenar, buscar, pruebas y validación |
-| 4 | (pega el hash) | Correcciones finales y documentación |
+| 1 | (42ddf45f1465cd6dff7db65fd608dc569a132864) | Estructura, interpretación y plan |
+| 2 | (ca65dfb4d42224af0b76628f71374e975d0b790a) | Desarrollo parcial: lectura, validación y calcular |
+| 3 | (929037a16c29980906f8b24812ecd1892f9a9564) | Total recursivo, ordenar, buscar, pruebas y validación |
 
 El hash del commit final se entrega aparte, junto con la URL del repositorio.
