@@ -1,0 +1,4 @@
+reto
+reto.exe
+*.o
+__pycache__/
