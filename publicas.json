@@ -1,0 +1,32 @@
+[
+ {
+  "grupo": 1,
+  "entrada": "2 5 30\n30 MOTOR 0 40 10 50 70 30 90\n10 VALVULA 1 20 20 25 10 80 5\n",
+  "salida": "30 40 0\n10 70 1\nTOTAL 110\nORDER 10 30\nFIND 30 40\n"
+ },
+ {
+  "grupo": 2,
+  "entrada": "1 1 1\n1 A 0 0 0\n",
+  "salida": "1 0 0\nTOTAL 0\nORDER 1\nFIND 1 0\n"
+ },
+ {
+  "grupo": 3,
+  "entrada": "3 3 20\n30 C 0 30 20 30 40\n20 B 0 30 20 30 40\n10 A 0 30 20 30 40\n",
+  "salida": "30 0 0\n20 0 0\n10 0 0\nTOTAL 0\nORDER 10 20 30\nFIND 20 0\n"
+ },
+ {
+  "grupo": 4,
+  "entrada": "2 8 10\n10 LIMITE 0 50 0 100 50 50 60 50 100 0\n20 MODO 1 50 0 100 50 50 60 50 100 0\n",
+  "salida": "10 100 1\n20 100 1\nTOTAL 200\nORDER 10 20\nFIND 10 100\n"
+ },
+ {
+  "grupo": 5,
+  "entrada": "2 4 99\n8 SIN 1 100 100 0 100 0\n3 OTRO 0 100 0 0 0 0\n",
+  "salida": "8 100 0\n3 0 0\nTOTAL 100\nORDER 8 3\nFIND 99 -1\n"
+ },
+ {
+  "grupo": 6,
+  "entrada": "1 1 1\n1 ERROR 0 50 101\n",
+  "salida": "ERROR\n"
+ }
+]
